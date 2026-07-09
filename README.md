@@ -7,7 +7,7 @@ Aplikasi Game Catur Online Multi-Pemain Real-Time berbasis WebSocket dengan perh
 ## 👥 Anggota Kelompok & Peran
 | Nama Mahasiswa | NPM | Peran |
 | :--- | :--- | :--- |
-| **Azizah** | [Isi NPM Manual di Sini] | Fullstack Developer (Backend / Frontend / Database / Statistik) |
+| **Azizah** | 2410010343 | Fullstack Developer (Backend / Frontend / Database / Statistik) |
 
 ---
 
