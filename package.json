@@ -1,0 +1,22 @@
+{
+  "name": "chess-websocket",
+  "version": "1.0.0",
+  "description": "Real-time multiplayer chess game with rating statistics dashboard using WebSockets and MySQL.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "chess.js": "^1.0.0-beta.6",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7",
+    "socket.io": "^4.7.5",
+    "sqlite3": "^5.1.7"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
